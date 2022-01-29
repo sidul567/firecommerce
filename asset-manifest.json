@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firecommerce/static/css/main.e87d2f7e.css",
+    "main.js": "/firecommerce/static/js/main.875dff58.js",
+    "static/js/787.4c5895a1.chunk.js": "/firecommerce/static/js/787.4c5895a1.chunk.js",
+    "index.html": "/firecommerce/index.html",
+    "main.e87d2f7e.css.map": "/firecommerce/static/css/main.e87d2f7e.css.map",
+    "main.875dff58.js.map": "/firecommerce/static/js/main.875dff58.js.map",
+    "787.4c5895a1.chunk.js.map": "/firecommerce/static/js/787.4c5895a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87d2f7e.css",
+    "static/js/main.875dff58.js"
+  ]
+}
